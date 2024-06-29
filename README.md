@@ -1,6 +1,7 @@
-[FIlE backup Web wordpress](https://drive.google.com/file/d/1TIyZP19o78S78tGmqW1VJQ-AcBdiA8JU/view?usp=sharing)
 ![Ngân](img/ngan.jpg)
 ![Quang](img/Quang.jpg)
+Tải file back up [tại đây](https://drive.google.com/file/d/1TIyZP19o78S78tGmqW1VJQ-AcBdiA8JU/view?usp=sharing) để lấy src
+
 
 ```javascript
 if (!defined('WP_DEBUG')) {
